@@ -1,0 +1,48 @@
+# 产品介绍
+* 它趣是一款基于智能穿戴设备生成的虚拟宠物社区的APP，并以游戏养成的方式实现宠物喂养，运动的日常任务，同时以云宠，商城为辅助实现品台完整的生态圈。
+
+## 产品特色功能
+
+* 智能养宠
+    * 用户可以通过宠物智能穿戴设备掌握宠物健康状态，并同步生成一个虚拟宠物。
+    * 实时反应宠物生命数据。给主人和兽医提供方便易得的参考数据。
+* 游戏化养宠
+	* 以游戏化的形式完成远程为宠物倒水喂食等
+	* 基于定位共享，分享宠物运动步数，并可查看到周边宠物的信息，寻找自己可能感兴趣的一起遛狗的人。
+* 云宠
+    * 宠物主可分享自家宠物的照片、短视频，记录主子的日常，并与其他用户交流养育经验。
+
+# 产品框架图
+## 产品功能框架图
+* 详细版：http://naotu.baidu.com/file/6cc04913c804d7d82353456736e9c8c4?token=1119636e7b083975
+
+* 智能养宠![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/前端框架—智能养宠.png)
+* 云宠
+* ![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/前端框架—云宠.png)
+* 商城
+![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/前端框架—商城.png)
+
+## 信息框架图
+* 详细版：http://naotu.baidu.com/file/9d04ba6da01958eb42fc26aaa39e08f8?token=eb7613d4e2d224c4
+* 智能养宠
+
+## 使用流程
+* 智能养宠
+    * 领养宠物![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/宠物领养.jpg)
+    * 宠物互动
+    * 生命体征
+    * 远程喂养
+    * 多宠管理![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/主页面流程图.jpg)
+    * 宠物运动![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/宠物运动.jpg)
+
+* 视频观看、分享流程![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/云宠使用流程图.jpg)
+* 商城-购买流程![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/购买支付流程图.jpg)
+
+## CMS
+* 框架图
+* https://luojihao.github.io/APP-pets-cms/
+
+* 角色权限图
+* http://naotu.baidu.com/file/2bb35c5cebb63ecd934e90a7ff1e12a4?token=f5939875a1b86c05 
+![image](https://raw.githubusercontent.com/LUOJIHAO/APP-Final/master/后端角色.png)
+
